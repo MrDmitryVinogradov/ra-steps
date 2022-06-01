@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ra-steps/static/css/main.904c97a1.css",
+    "main.js": "/ra-steps/static/js/main.5041cb2f.js",
+    "static/js/787.aa367d19.chunk.js": "/ra-steps/static/js/787.aa367d19.chunk.js",
+    "static/media/delete-button.svg": "/ra-steps/static/media/delete-button.8618c2a5c71beb2ff7ab.svg",
+    "index.html": "/ra-steps/index.html",
+    "main.904c97a1.css.map": "/ra-steps/static/css/main.904c97a1.css.map",
+    "main.5041cb2f.js.map": "/ra-steps/static/js/main.5041cb2f.js.map",
+    "787.aa367d19.chunk.js.map": "/ra-steps/static/js/787.aa367d19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.904c97a1.css",
+    "static/js/main.5041cb2f.js"
+  ]
+}
